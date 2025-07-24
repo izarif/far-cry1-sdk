@@ -17,6 +17,9 @@
 #define _ICRY_PAK_HDR_
 
 #include <smartptr.h>
+
+#include <io.h>
+
 #ifdef LINUX
 	#include <winbase.h>
 	#include <stdint.h>
